@@ -1,6 +1,6 @@
 @import url('reset.css'); 
 
-body{background:#42454e}
+body{background:#42454e; margin:0;}
 .grid{position:relative; margin:0 auto; width:1240px}
 .grid:after{content:''; display:block; clear:both}
 #wrap, #container, #container .grid{height:100%}
