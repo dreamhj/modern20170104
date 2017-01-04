@@ -10,8 +10,8 @@
 	url('fonts/MalgunGothic.woff') format('woff'),
 	url('fonts/MalgunGothic.ttf') format('truetype');
 }
-*{margin:0; padding:0;}
-* {-webkit-box-sizing: border-box; box-sizing: border-box;}
+
+* { -webkit-box-sizing: border-box; box-sizing: border-box;}
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr, address, 
 del, dfn, em, img, ins, kbd, q, samp,
